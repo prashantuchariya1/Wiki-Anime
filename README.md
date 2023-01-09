@@ -2,7 +2,7 @@
 First, run the development server:
 
 ```bash
-git clone git@github.com:smochan/anime.git
+git clone git@github.com:prashantuchariya1/Wiki-Anime.git
 yarn add
 yarn dev
 ```
